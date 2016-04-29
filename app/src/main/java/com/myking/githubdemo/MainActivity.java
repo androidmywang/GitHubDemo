@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("Hello");
     }
 }
